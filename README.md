@@ -13,8 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: idhinofficial@gmail.com
 
 
-![Khulafaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=idhin&show_icons=true&theme=synthwave)
+![Khulafaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=idhin&show_icons=true&theme=merko)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idhin)](https://github.com/idhin/github-readme-stats) -->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+ -->
 
       
 
