@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: idhinofficial@gmail.com
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=idhin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Khulafaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=idhin&show_icons=true&theme=radical)
+
 
       
 
