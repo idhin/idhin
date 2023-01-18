@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> U can call me idin
+
 
 <!-- **idhin/idhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
