@@ -77,7 +77,6 @@ E637APm56SGROyBWRtUULr+QDJzQ8A4=
 Here are some ideas to get you started:
 
 - 🔭 I’m currently research on Security Operations
-- 👯 I’m looking to collaborate on Web Development
 - 💬 Ask me about anything
 - 📫 How to reach me: khulafaur@rasyid.in
 - Visit my site https://rasyid.in/
