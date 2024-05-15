@@ -1,5 +1,8 @@
 <!-- ![readmebox](https://raw.githubusercontent.com/idhin/idhin/ace2921acce82f9082b66e626f7c265adfd18aba/readmebox.svg) -->
 <details>
+
+<summary>🔐 PGP Fingerprint: <a href="https://keys.openpgp.org/search?q=320531FB4556ED1B8BCBF60302616133EF13ECD8"><code>320531FB4556ED1B8BCBF60302616133EF13ECD8</code></a></summary>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -94,6 +97,4 @@ If you wanna buy me some coffee, you can visit:
 - [Saweria](https://saweria.co/rasyidin) (Indonesia)
 
 Thank you for your support! 😊
-
-<summary>🔐 PGP Fingerprint: <a href="https://keys.openpgp.org/search?q=320531FB4556ED1B8BCBF60302616133EF13ECD8"><code>320531FB4556ED1B8BCBF60302616133EF13ECD8</code></a></summary>
 
