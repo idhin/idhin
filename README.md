@@ -96,5 +96,13 @@ Here are some ideas to get you started:
  --> 
       
 
+## ☕ Support Me
+
+If you wanna buy me some coffee, you can visit:
+
+- [Buy Me a Coffee](https://buymeacoffee.com/rasyidin) (Worldwide) 
+- [Saweria](https://saweria.co/rasyidin) (Indonesia)
+
+Thank you for your support! 😊
 
 
