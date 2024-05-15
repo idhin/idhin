@@ -1,6 +1,27 @@
 <!-- ![readmebox](https://raw.githubusercontent.com/idhin/idhin/ace2921acce82f9082b66e626f7c265adfd18aba/readmebox.svg) -->
 <details>
 
+### Hi there 👋
+
+- 🔭 I’m currently research on Security Operations
+- 💬 Ask me about anything
+- 📫 How to reach me: khulafaur@rasyid.in
+- Visit my site https://rasyid.in/
+
+
+<!-- ![Khulafaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=idhin&show_icons=true&theme=merko)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idhin)](https://github.com/idhin/github-readme-stats) -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a> -->
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+ --> 
+
+
 <summary>🔐 PGP Fingerprint: <a href="https://keys.openpgp.org/search?q=320531FB4556ED1B8BCBF60302616133EF13ECD8"><code>320531FB4556ED1B8BCBF60302616133EF13ECD8</code></a></summary>
 
 ```
@@ -67,27 +88,6 @@ E637APm56SGROyBWRtUULr+QDJzQ8A4=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
-
-### Hi there 👋
-
-- 🔭 I’m currently research on Security Operations
-- 💬 Ask me about anything
-- 📫 How to reach me: khulafaur@rasyid.in
-- Visit my site https://rasyid.in/
-
-
-<!-- ![Khulafaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=idhin&show_icons=true&theme=merko)
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idhin)](https://github.com/idhin/github-readme-stats) -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a> -->
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
- --> 
-      
 
 ## ☕ Support Me
 
