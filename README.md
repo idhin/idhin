@@ -69,13 +69,6 @@ E637APm56SGROyBWRtUULr+QDJzQ8A4=
 
 ### Hi there 👋
 
-> U can call me idin
-
-
-<!-- **idhin/idhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently research on Security Operations
 - 💬 Ask me about anything
 - 📫 How to reach me: khulafaur@rasyid.in
